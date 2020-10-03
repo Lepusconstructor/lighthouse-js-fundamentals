@@ -14,7 +14,8 @@ const finalPosition = function (moves) {
      break;
      
     } 
-  }return position;
+  }
+  return position;
 }
 
 console.log(finalPosition(moves));
